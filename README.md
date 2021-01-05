@@ -1,4 +1,4 @@
 # PetPredictor
 
-Models tested so far: Linear Regression
+Practice of Linear Regression
 
